@@ -7,6 +7,7 @@ If you have come this far in reading, then you are in the right place.
 No cobra can defeat the drunken monkey, for it sees at least 3 cobras at any time.
 
 Warning 1: May cause your CI/CD pipeline to achieve enlightenment, question its existence, and immediately exit with code 0.
+Warning 2: For Entertainment Only - no functional code should exist here.
 
 Features:
 
@@ -65,4 +66,16 @@ function processShoppingCart( cart ) {
 }
 ```
 
-Warning 2: For Entertainment Only - no functional code should exist here.
+<img width="1344" height="768" alt="Matrix Warehouse(Craiyon)" src="https://github.com/user-attachments/assets/eea71587-68f0-47cc-a0bf-c765b1690b51" />
+
+<img width="1152" height="896" alt="Busy Warehouse(Craiyon)" src="https://github.com/user-attachments/assets/f9371add-2c5c-4c0d-b1b8-9aac7c2ed012" />
+
+### 📸 Visual Assets & AI Satire Disclaimer
+
+All images in this repository are generated using AI (Craiyon) to visually illustrate the comedic themes of the project.
+
+* **Parody & Trademarks:** The depiction of fulfillment warehouses, shipping boxes, delivery logistics, or parodied service charges is strictly for comedic purposes. No endorsement, affiliation, or resemblance to real e-commerce platforms or delivery services is implied.
+* **Satirical Content Only:** Included images—ranging from martial arts standoffs to literal warehouse buttons—are entirely fictional. They do not represent real-world violence, substance use, animal behavior, actual warehouse operations, or functional software engineering tools.
+* **Visual Text & Code Safeties:** Text elements embedded in the imagery (such as "UNHANDLED EXCEPTION" or "EXISTENTIAL DREAD") and any floating digital code artifacts are completely non-functional. They are purely aesthetic parodies and contain no executable logic, security exploits, or hidden payloads.
+* **GPL-2.0 & Assets:** While the core documentation and mock setup are covered under the GPL-2.0 License, the visual assets remain subject to Craiyon's standard usage terms and platform attributions.
+
