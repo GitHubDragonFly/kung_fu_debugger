@@ -7,6 +7,7 @@ If you have come this far in reading, then you are in the right place.
 No cobra can defeat the drunken monkey, for it sees at least 3 cobras at any time.
 
 Warning 1: May cause your CI/CD pipeline to achieve enlightenment, question its existence, and immediately exit with code 0.
+
 Warning 2: For Entertainment Only - no functional code should exist here.
 
 Features:
